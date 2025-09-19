@@ -1,0 +1,28 @@
+# Object files (compiled intermediates)
+*.o
+*.obj
+
+# Executables (final programs)
+*.exe
+*.out
+*.app
+network-simulator
+
+# Build directories
+/bin/
+/obj/
+/debug/
+/output/
+/build/
+
+# Code::Blocks specific files
+*.depend
+*.layout
+*.cbp
+
+# Other IDEs
+.vscode/
+.idea/
+
+# Compressed archives
+*.zip
